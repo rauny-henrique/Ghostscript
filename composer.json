@@ -1,11 +1,12 @@
 {
-    "name": "gravitymedia/ghostscript",
+    "name": "rauny-henrique/ghostscript",
     "description": "Ghostscript is an object oriented Ghostscript binary wrapper for PHP.",
     "keywords": [
         "gravitymedia",
-        "ghostscript"
+        "ghostscript",
+        "php8"
     ],
-    "homepage": "https://github.com/GravityMedia/Ghostscript",
+    "homepage": "https://github.com/rauny-henrique/Ghostscript",
     "license": "MIT",
     "authors": [
         {
